@@ -65,7 +65,7 @@ public void main() throws IOException, ElementNotVisibleException {
 
 try {
     File inputfile = new File(System.getProperty("user.dir")
-            + "/UrlList.xml");
+            + "/SCUrlList.xml");
     DocumentBuilderFactory dbFactory = DocumentBuilderFactory
             .newInstance();
     DocumentBuilder docbuilder = dbFactory.newDocumentBuilder();
