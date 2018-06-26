@@ -655,7 +655,7 @@
 	<!-- Missselfridge US -->
 
 	<UrlTestData iTestID="103" >
-		<iUrlID>xxUK-Home</iUrlID>
+		<iUrlID>MSUS-Home</iUrlID>
 		<ibaseurl>https://monty:monty@showcase.m.us.missselfridge.com/</ibaseurl>
 		<iCategory></iCategory>
 	</UrlTestData>

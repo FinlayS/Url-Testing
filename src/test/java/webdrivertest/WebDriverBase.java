@@ -27,6 +27,7 @@ public abstract class WebDriverBase {
         Dimension dimension = new Dimension(300, 17208);
         DesiredCapabilities capabilities = DesiredCapabilities.chrome();
         ChromeOptions options = new ChromeOptions();
+        //options.addArguments("--headless");
         options.addArguments("test-type");
         capabilities.setCapability("chrome.binary", "Users/simpsof/Desktop/chromedriver");
         capabilities.setCapability(ChromeOptions.CAPABILITY, options);
