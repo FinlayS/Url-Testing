@@ -170,7 +170,7 @@
 	<UrlTestData iTestID="27" >
 		<iUrlID>TSDE-Search</iUrlID>
 		<ibaseurl>http://m.de.topshop.com/</ibaseurl>
-		<iCategory>search/?q=denim</iCategory>
+		<iCategory>search/?q=vest</iCategory>
 	</UrlTestData>
 
 	<UrlTestData iTestID="28" >
@@ -551,7 +551,7 @@
 	<UrlTestData iTestID="87" >
 		<iUrlID>EVDE-Search</iUrlID>
 		<ibaseurl>http://m.evansmode.de/</ibaseurl>
-		<iCategory>search/?q=jacke</iCategory>
+		<iCategory>search/?q=vest</iCategory>
 	</UrlTestData>
 
 	<UrlTestData iTestID="88" >
@@ -674,7 +674,7 @@
 
 	<UrlTestData iTestID="105" >
 		<iUrlID>MSUS-Category</iUrlID>
-		<ibaseurl>http://m.u6.missselfridge.com/</ibaseurl>
+		<ibaseurl>http://m.us.missselfridge.com/</ibaseurl>
 		<iCategory>en/msus/category/apparel-893014/knitwear-893036</iCategory>
 	</UrlTestData>
 
